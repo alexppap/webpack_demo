@@ -14,5 +14,6 @@
 .hello {
   color: red;
   background: url('./icon.jpg');
+  background-repeat: no-repeat;
   font-family: 'MyFont';
 }
